@@ -1,0 +1,20 @@
+What have we done so far?
+
+Been through a lot of research papers
+been thorugh a couple of thesis to understand the state of the art
+short listed initial approaches to the problem that we are going to follow
+We were able to get our hands on two sets of EEG data
+We were able to extract the data from DEAP data set
+We have written and verified the matlab code to extract few of the features from the dataset
+
+
+
+What are we planning to do by next report?
+
+Come up with atleast a working model of the emotion detection model based on one of the shortlisted papers.
+Start tweaking with the model in order to understand the affects.
+Implement wavelet transform
+
+Problems we have faced
+
+Extracting features and building a working starting code for emotion classifcation seems like an unproductive task. We would be very grateful if we can have a working model of the emotion classification implemented on matlab, so that we can make necessary changes in the implemented code itself, without dwelling in unnecessary steps like feature extraction, wavelet transforms etc.
